@@ -1,0 +1,10 @@
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\bin\Debug\AppDomainTestApp.exe.config
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\bin\Debug\AppDomainTestApp.exe
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\bin\Debug\AppDomainTestApp.pdb
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\bin\Debug\AppDomainTestLib.dll
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\bin\Debug\AppDomainTestLib.pdb
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\obj\Debug\AppDomainTestApp.csprojAssemblyReference.cache
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\obj\Debug\AppDomainTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\obj\Debug\AppDomainTestApp.csproj.CopyComplete
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\obj\Debug\AppDomainTestApp.exe
+C:\Users\Gagan\Desktop\AppDomainTestApp\AppDomainTestApp\obj\Debug\AppDomainTestApp.pdb
